@@ -1,6 +1,6 @@
 {
   "name": "react-static-plugin-metadata",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Plugin for react-static that generates mime-type for each file",
   "main": "dist/node.api.js",
   "scripts": {
